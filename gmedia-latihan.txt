@@ -3,3 +3,5 @@ Firaninda Resolusi
 - Mengerjakan tugas di trello
 - Belajar Flutter dasar
 - Membuat aplikasi
+  * aplikasi agenda rapat
+  * aplikasi keuangan
