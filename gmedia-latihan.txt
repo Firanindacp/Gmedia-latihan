@@ -2,4 +2,4 @@ Firaninda Resolusi
 - Belajar Git
 - Mengerjakan tugas di trello
 - Belajar Flutter dasar
-- Latihan terus
+- Membuat aplikasi
